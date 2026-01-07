@@ -73,3 +73,6 @@ Subscription and revenue analytics
 Churn analysis and retention insights
 
 Business intelligence reporting using Power BI
+
+
+[![Streaming Dashboard](https://github.com/Amnishbeniwal/streaming-app-analytics-powerbi-dashboard/blob/main/Streaming%20Dashborad.png)]
